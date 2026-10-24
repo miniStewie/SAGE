@@ -1,0 +1,858 @@
+{
+  "params": {
+    "e_budget": 0.2964208814931285,
+    "c_budget": 38.76862716674805,
+    "eta": 0.8929437310035971,
+    "base_time": "2025-05-01T08:00:00",
+    "t": 17
+  },
+  "packets": [
+    {
+      "id": "10-1",
+      "weight": 0.7203715669534455,
+      "delay": 1.0
+    },
+    {
+      "id": "10-2",
+      "weight": 1.2380932377559537,
+      "delay": 1.0
+    },
+    {
+      "id": "10-4",
+      "weight": 0.3842279410848355,
+      "delay": 1.0
+    },
+    {
+      "id": "10-5",
+      "weight": 0.9086619589043995,
+      "delay": 1.0
+    },
+    {
+      "id": "10-7",
+      "weight": 1.7873981794706704,
+      "delay": 1.0
+    },
+    {
+      "id": "10-8",
+      "weight": 1.6518572759800563,
+      "delay": 1.0
+    },
+    {
+      "id": "10-9",
+      "weight": 0.7559289094862373,
+      "delay": 1.0
+    },
+    {
+      "id": "10-10",
+      "weight": 1.2600866695669186,
+      "delay": 1.0
+    },
+    {
+      "id": "11-0",
+      "weight": 1.6136269603553814,
+      "delay": 1.0
+    },
+    {
+      "id": "11-1",
+      "weight": 1.5155211540914348,
+      "delay": 1.0
+    },
+    {
+      "id": "11-4",
+      "weight": 1.0674907070343014,
+      "delay": 1.0
+    },
+    {
+      "id": "11-12",
+      "weight": 1.7713252497904344,
+      "delay": 1.0
+    },
+    {
+      "id": "11-13",
+      "weight": 1.8184640535525802,
+      "delay": 1.0
+    },
+    {
+      "id": "11-15",
+      "weight": 1.1154064700434465,
+      "delay": 1.0
+    },
+    {
+      "id": "11-17",
+      "weight": 1.8030377254884948,
+      "delay": 1.0
+    },
+    {
+      "id": "11-19",
+      "weight": 0.9630239355994598,
+      "delay": 1.0
+    },
+    {
+      "id": "12-0",
+      "weight": 0.5639660943256889,
+      "delay": 1.0
+    },
+    {
+      "id": "12-2",
+      "weight": 1.4421962725610316,
+      "delay": 1.0
+    },
+    {
+      "id": "12-4",
+      "weight": 1.7499406361385297,
+      "delay": 1.0
+    },
+    {
+      "id": "12-5",
+      "weight": 1.5282414831486826,
+      "delay": 1.0
+    },
+    {
+      "id": "12-6",
+      "weight": 1.6711112663776664,
+      "delay": 1.0
+    },
+    {
+      "id": "12-10",
+      "weight": 0.7070884011692755,
+      "delay": 1.0
+    },
+    {
+      "id": "12-11",
+      "weight": 0.4966314553946801,
+      "delay": 1.0
+    },
+    {
+      "id": "12-12",
+      "weight": 1.3464014743380313,
+      "delay": 1.0
+    },
+    {
+      "id": "12-13",
+      "weight": 1.2888434340296657,
+      "delay": 1.0
+    },
+    {
+      "id": "13-3",
+      "weight": 1.540250724110477,
+      "delay": 1.0
+    },
+    {
+      "id": "13-7",
+      "weight": 1.7782861455311763,
+      "delay": 1.0
+    },
+    {
+      "id": "13-13",
+      "weight": 0.9325721010303819,
+      "delay": 1.0
+    },
+    {
+      "id": "14-1",
+      "weight": 1.7076148265828683,
+      "delay": 1.0
+    },
+    {
+      "id": "14-3",
+      "weight": 0.8015134061666038,
+      "delay": 1.0
+    },
+    {
+      "id": "14-11",
+      "weight": 1.8390982471699844,
+      "delay": 1.0
+    },
+    {
+      "id": "14-13",
+      "weight": 0.5748786010525712,
+      "delay": 1.0
+    },
+    {
+      "id": "15-0",
+      "weight": 4.081113322629932,
+      "delay": 1.0
+    },
+    {
+      "id": "15-1",
+      "weight": 1.9845893636266374,
+      "delay": 1.0
+    },
+    {
+      "id": "15-2",
+      "weight": 4.131015658590897,
+      "delay": 1.0
+    },
+    {
+      "id": "15-3",
+      "weight": 2.083438631537396,
+      "delay": 1.0
+    },
+    {
+      "id": "15-4",
+      "weight": 2.933506042019602,
+      "delay": 1.0
+    },
+    {
+      "id": "15-5",
+      "weight": 3.0791365604450744,
+      "delay": 1.0
+    },
+    {
+      "id": "15-6",
+      "weight": 1.577692923203164,
+      "delay": 1.0
+    },
+    {
+      "id": "15-7",
+      "weight": 2.3194509100949148,
+      "delay": 1.0
+    },
+    {
+      "id": "15-8",
+      "weight": 2.4536360334524563,
+      "delay": 1.0
+    },
+    {
+      "id": "15-9",
+      "weight": 3.0244338468685257,
+      "delay": 1.0
+    },
+    {
+      "id": "15-10",
+      "weight": 3.7688404061846645,
+      "delay": 1.0
+    },
+    {
+      "id": "15-11",
+      "weight": 1.9533635766338753,
+      "delay": 1.0
+    },
+    {
+      "id": "15-12",
+      "weight": 3.0373359215547295,
+      "delay": 1.0
+    },
+    {
+      "id": "15-13",
+      "weight": 7.915080133910173,
+      "delay": 1.0
+    },
+    {
+      "id": "15-14",
+      "weight": 4.989223481240856,
+      "delay": 1.0
+    },
+    {
+      "id": "15-15",
+      "weight": 1.921529727353191,
+      "delay": 1.0
+    },
+    {
+      "id": "15-16",
+      "weight": 1.5880149868857996,
+      "delay": 1.0
+    },
+    {
+      "id": "15-17",
+      "weight": 0.5991472007662104,
+      "delay": 1.0
+    },
+    {
+      "id": "15-18",
+      "weight": 5.0321409155671315,
+      "delay": 1.0
+    },
+    {
+      "id": "15-19",
+      "weight": 4.507942694016698,
+      "delay": 1.0
+    },
+    {
+      "id": "16-0",
+      "weight": 4.386373526604965,
+      "delay": 1.0
+    },
+    {
+      "id": "16-1",
+      "weight": 2.894555577143627,
+      "delay": 1.0
+    },
+    {
+      "id": "16-2",
+      "weight": 0.8710232594571929,
+      "delay": 1.0
+    },
+    {
+      "id": "16-3",
+      "weight": 5.8407610182234855,
+      "delay": 1.0
+    },
+    {
+      "id": "16-4",
+      "weight": 3.2043675633571946,
+      "delay": 1.0
+    },
+    {
+      "id": "16-5",
+      "weight": 2.046132899061806,
+      "delay": 1.0
+    },
+    {
+      "id": "16-6",
+      "weight": 2.7174440311872123,
+      "delay": 1.0
+    },
+    {
+      "id": "16-7",
+      "weight": 2.5002262249341682,
+      "delay": 1.0
+    },
+    {
+      "id": "16-8",
+      "weight": 2.144142238631729,
+      "delay": 1.0
+    },
+    {
+      "id": "16-9",
+      "weight": 1.9135988481959316,
+      "delay": 1.0
+    },
+    {
+      "id": "16-10",
+      "weight": 15.575866835588807,
+      "delay": 1.0
+    },
+    {
+      "id": "16-11",
+      "weight": 1.063623326058305,
+      "delay": 1.0
+    },
+    {
+      "id": "16-12",
+      "weight": 1.4713960324637645,
+      "delay": 1.0
+    },
+    {
+      "id": "16-13",
+      "weight": 1.5167898782356275,
+      "delay": 1.0
+    },
+    {
+      "id": "16-14",
+      "weight": 2.6539370923677383,
+      "delay": 1.0
+    },
+    {
+      "id": "16-15",
+      "weight": 4.8715601824649655,
+      "delay": 1.0
+    },
+    {
+      "id": "16-16",
+      "weight": 1.8660240782775146,
+      "delay": 1.0
+    },
+    {
+      "id": "17-0",
+      "weight": 3.121860991055431,
+      "delay": 1.0
+    },
+    {
+      "id": "17-1",
+      "weight": 3.8710472580267097,
+      "delay": 1.0
+    },
+    {
+      "id": "17-2",
+      "weight": 3.8210124107134056,
+      "delay": 1.0
+    },
+    {
+      "id": "17-3",
+      "weight": 6.3293440862498525,
+      "delay": 1.0
+    },
+    {
+      "id": "17-4",
+      "weight": 4.045672669833354,
+      "delay": 1.0
+    },
+    {
+      "id": "17-5",
+      "weight": 2.7086190396408134,
+      "delay": 1.0
+    },
+    {
+      "id": "17-6",
+      "weight": 3.4710812691374455,
+      "delay": 1.0
+    },
+    {
+      "id": "17-7",
+      "weight": 4.213781169725518,
+      "delay": 1.0
+    },
+    {
+      "id": "17-8",
+      "weight": 1.4293857791081908,
+      "delay": 1.0
+    },
+    {
+      "id": "17-9",
+      "weight": 0.9814232584387345,
+      "delay": 1.0
+    }
+  ],
+  "satellites": [
+    {
+      "name": "STARLINK-11080",
+      "rate": 28749.633,
+      "power_cost": 0.00803,
+      "delay": 3.404,
+      "cost": 1.795,
+      "is_visible": true,
+      "window_length": 2.1166666666666667
+    },
+    {
+      "name": "STARLINK-2150",
+      "rate": 20962.603,
+      "power_cost": 0.00882,
+      "delay": 4.654,
+      "cost": 0.563,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-2406",
+      "rate": 25428.388,
+      "power_cost": 0.00884,
+      "delay": 4.696,
+      "cost": 1.302,
+      "is_visible": true,
+      "window_length": 7.5
+    },
+    {
+      "name": "STARLINK-2409",
+      "rate": 15490.63,
+      "power_cost": 0.00879,
+      "delay": 4.614,
+      "cost": 2.322,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-2430",
+      "rate": 21239.302,
+      "power_cost": 0.00882,
+      "delay": 4.654,
+      "cost": 1.707,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-2467",
+      "rate": 17277.228,
+      "power_cost": 0.0088,
+      "delay": 4.628,
+      "cost": 1.343,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-30135",
+      "rate": 17883.047,
+      "power_cost": 0.0084,
+      "delay": 3.959,
+      "cost": 1.705,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-30326",
+      "rate": 13288.794,
+      "power_cost": 0.00862,
+      "delay": 4.322,
+      "cost": 1.289,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-30505",
+      "rate": 24268.212,
+      "power_cost": 0.00848,
+      "delay": 4.09,
+      "cost": 2.322,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-3054",
+      "rate": 29838.881,
+      "power_cost": 0.00887,
+      "delay": 4.752,
+      "cost": 1.306,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-3075",
+      "rate": 34111.775,
+      "power_cost": 0.00881,
+      "delay": 4.638,
+      "cost": 1.192,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-30856",
+      "rate": 32772.25,
+      "power_cost": 0.00861,
+      "delay": 4.306,
+      "cost": 0.363,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-30968",
+      "rate": 32230.928,
+      "power_cost": 0.00864,
+      "delay": 4.355,
+      "cost": 1.31,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-31113",
+      "rate": 36448.38,
+      "power_cost": 0.00825,
+      "delay": 3.727,
+      "cost": 2.214,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-31272",
+      "rate": 29458.164,
+      "power_cost": 0.00846,
+      "delay": 4.051,
+      "cost": 0.674,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-31399",
+      "rate": 16226.642,
+      "power_cost": 0.00821,
+      "delay": 3.675,
+      "cost": 0.54,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-31507",
+      "rate": 20006.39,
+      "power_cost": 0.00821,
+      "delay": 3.666,
+      "cost": 0.509,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-31820",
+      "rate": 33277.111,
+      "power_cost": 0.00861,
+      "delay": 4.305,
+      "cost": 0.351,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-31827",
+      "rate": 31458.449,
+      "power_cost": 0.00874,
+      "delay": 4.524,
+      "cost": 0.899,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-31843",
+      "rate": 17063.871,
+      "power_cost": 0.00865,
+      "delay": 4.375,
+      "cost": 1.413,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-3193",
+      "rate": 20138.871,
+      "power_cost": 0.0088,
+      "delay": 4.621,
+      "cost": 0.944,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-3207",
+      "rate": 17977.861,
+      "power_cost": 0.00878,
+      "delay": 4.601,
+      "cost": 1.678,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-32104",
+      "rate": 34291.842,
+      "power_cost": 0.00821,
+      "delay": 3.678,
+      "cost": 1.561,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-32233",
+      "rate": 19508.599,
+      "power_cost": 0.00861,
+      "delay": 4.304,
+      "cost": 2.056,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-32260",
+      "rate": 24206.864,
+      "power_cost": 0.00859,
+      "delay": 4.272,
+      "cost": 1.234,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-3239",
+      "rate": 20372.446,
+      "power_cost": 0.00878,
+      "delay": 4.588,
+      "cost": 0.922,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-3248",
+      "rate": 12581.539,
+      "power_cost": 0.00878,
+      "delay": 4.595,
+      "cost": 2.328,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-3254",
+      "rate": 28310.992,
+      "power_cost": 0.00881,
+      "delay": 4.64,
+      "cost": 0.646,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-32799",
+      "rate": 19466.126,
+      "power_cost": 0.00827,
+      "delay": 3.756,
+      "cost": 0.473,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-33855",
+      "rate": 34691.312,
+      "power_cost": 0.00852,
+      "delay": 4.152,
+      "cost": 1.91,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-34253",
+      "rate": 17333.016,
+      "power_cost": 0.00866,
+      "delay": 4.394,
+      "cost": 1.059,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-34920",
+      "rate": 27833.953,
+      "power_cost": 0.00825,
+      "delay": 3.728,
+      "cost": 2.127,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-34963",
+      "rate": 20418.811,
+      "power_cost": 0.0089,
+      "delay": 4.804,
+      "cost": 1.374,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-35734",
+      "rate": 19474.307,
+      "power_cost": 0.00856,
+      "delay": 4.212,
+      "cost": 0.994,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-4431",
+      "rate": 24046.223,
+      "power_cost": 0.00871,
+      "delay": 4.467,
+      "cost": 1.907,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-4686",
+      "rate": 33707.526,
+      "power_cost": 0.00876,
+      "delay": 4.562,
+      "cost": 0.763,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-4707",
+      "rate": 33609.116,
+      "power_cost": 0.00893,
+      "delay": 4.851,
+      "cost": 1.87,
+      "is_visible": true,
+      "window_length": 5.283333333333333
+    },
+    {
+      "name": "STARLINK-4727",
+      "rate": 18228.345,
+      "power_cost": 0.00878,
+      "delay": 4.589,
+      "cost": 2.225,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-4793",
+      "rate": 31112.151,
+      "power_cost": 0.00892,
+      "delay": 4.843,
+      "cost": 2.145,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5061",
+      "rate": 20242.824,
+      "power_cost": 0.00863,
+      "delay": 4.341,
+      "cost": 1.202,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5074",
+      "rate": 26808.385,
+      "power_cost": 0.00892,
+      "delay": 4.842,
+      "cost": 1.506,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5388",
+      "rate": 24236.779,
+      "power_cost": 0.00862,
+      "delay": 4.315,
+      "cost": 0.704,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5396",
+      "rate": 23794.264,
+      "power_cost": 0.0087,
+      "delay": 4.452,
+      "cost": 2.271,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5401",
+      "rate": 34868.591,
+      "power_cost": 0.00842,
+      "delay": 3.987,
+      "cost": 1.166,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5414",
+      "rate": 35369.795,
+      "power_cost": 0.0089,
+      "delay": 4.803,
+      "cost": 2.331,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5416",
+      "rate": 33432.598,
+      "power_cost": 0.00863,
+      "delay": 4.339,
+      "cost": 0.468,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5773",
+      "rate": 20732.536,
+      "power_cost": 0.0084,
+      "delay": 3.961,
+      "cost": 0.775,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5821",
+      "rate": 14706.642,
+      "power_cost": 0.0084,
+      "delay": 3.957,
+      "cost": 2.138,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-5843",
+      "rate": 18866.739,
+      "power_cost": 0.00848,
+      "delay": 4.094,
+      "cost": 0.64,
+      "is_visible": false,
+      "window_length": 0.0
+    },
+    {
+      "name": "STARLINK-6077",
+      "rate": 20660.205,
+      "power_cost": 0.00862,
+      "delay": 4.317,
+      "cost": 0.792,
+      "is_visible": false,
+      "window_length": 0.0
+    }
+  ]
+}

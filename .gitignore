@@ -1,0 +1,31 @@
+# Local environments and dependencies
+.venv/
+venv/
+
+# IDE settings and Python / Numba caches
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+
+# Experiment logs stay local; dataset spreadsheets remain tracked
+/TD3/info/
+/PurePPO/pure_ppo_info*/
+/PureTD3/pure_td3_info*/
+/results/
+info[0-9]*.xlsx
+
+# Local-only directory
+/web/
+
+# Local configuration and OS files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
